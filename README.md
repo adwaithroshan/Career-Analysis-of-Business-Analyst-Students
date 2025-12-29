@@ -16,9 +16,9 @@ Students in the Business Analysis Program (BAP) faced difficulties securing co-o
 
 ## 🕵️ Data & Methodology
 We conducted a requirements analysis involving three key stakeholder groups:
-1.  **Current Students (n=19):** To gauge satisfaction and confidence.
-2.  **Career Coaches (n=3):** To understand support structures.
-3.  **Alumni (n=3):** To identify industry realities.
+1.  **Current Students:** To gauge satisfaction and confidence.
+2.  **Career Coaches:** To understand support structures.
+3.  **Alumni:** To identify industry realities.
 
 ## 💡 Key Insights
 * **Service Gap:** **63.2%** of students expressed dissatisfaction with current career services, specifically citing a lack of mock interview prep.
