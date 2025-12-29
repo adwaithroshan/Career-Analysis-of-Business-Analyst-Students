@@ -1,11 +1,11 @@
 # Market Research: Student Career Analysis 🎓
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Research](https://img.shields.io/badge/Market_Research-4CAF50?style=for-the-badge)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 **Goal:** Identify barriers to employment for Business Analysis students and propose curriculum improvements.
-**Role:** Assistant Team Lead
+**Role:** Assistant Team Lead, Lead Analyst
 **Deliverable:** [📄 View Final Presentation PDF](./Career_Analysis_of_Business_Analyst_Students.pdf)
 
 ## 📝 Project Context
