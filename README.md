@@ -6,7 +6,9 @@
 
 
 **Goal:** Identify barriers to employment for Business Analysis students and propose curriculum improvements.
+
 **Roles:** Assistant Team Lead, Lead Analyst/ Researcher
+
 **Deliverable:** [📄 View Final Presentation PDF](./Career_Analysis_of_Business_Analyst_Students.pdf)
 
 ## 📝 Project Context
