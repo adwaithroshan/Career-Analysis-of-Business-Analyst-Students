@@ -8,8 +8,8 @@
 **Role:** Assistant Team Lead, Lead Analyst
 **Deliverable:** [📄 View Final Presentation PDF](./Career_Analysis_of_Business_Analyst_Students.pdf)
 
-[cite_start]**Goal:** Identify barriers to employment for Business Analysis students and propose curriculum improvements[cite: 607, 608].
-[cite_start]**Role:** Assistant Team Lead [cite: 611, 630]
+**Goal:** Identify barriers to employment for Business Analysis students and propose curriculum improvements.
+**Roles:** Assistant Team Lead, Lead Analyst/ Researcher
 **Deliverable:** [📄 View Final Presentation PDF](./Career_Analysis_of_Business_Analyst_Students.pdf)
 
 ## 📝 Project Context
