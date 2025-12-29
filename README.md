@@ -13,21 +13,21 @@
 **Deliverable:** [📄 View Final Presentation PDF](./Career_Analysis_of_Business_Analyst_Students.pdf)
 
 ## 📝 Project Context
-[cite_start]Students in the Business Analysis Program (BAP) faced difficulties securing co-op placements due to perceived gaps in technical proficiency and high market competition[cite: 618, 619]. I co-led a team to validate these assumptions through structured research.
+Students in the Business Analysis Program (BAP) faced difficulties securing co-op placements due to perceived gaps in technical proficiency and high market competition. I co-led a team to validate these assumptions through structured research.
 
 ## 🕵️ Data & Methodology
-[cite_start]We conducted a requirements analysis involving three key stakeholder groups[cite: 625]:
-1.  [cite_start]**Current Students (n=19):** To gauge satisfaction and confidence[cite: 683].
-2.  [cite_start]**Career Coaches (n=3):** To understand support structures[cite: 686].
-3.  [cite_start]**Alumni (n=3):** To identify industry realities[cite: 688].
+We conducted a requirements analysis involving three key stakeholder groups:
+1.  **Current Students (n=19):** To gauge satisfaction and confidence.
+2.  **Career Coaches (n=3):** To understand support structures.
+3.  **Alumni (n=3):** To identify industry realities.
 
 ## 💡 Key Insights
-* [cite_start]**Service Gap:** **63.2%** of students expressed dissatisfaction with current career services, specifically citing a lack of mock interview prep[cite: 694, 697].
-* [cite_start]**Curriculum Gap:** 90% of alumni respondents identified **Data Analysis** and **Adaptability** as the most critical missing skills in the curriculum[cite: 710].
-* [cite_start]**Demand:** 84.2% of students requested more robust internship and co-op programs[cite: 695].
+* **Service Gap:** **63.2%** of students expressed dissatisfaction with current career services, specifically citing a lack of mock interview prep.
+* **Curriculum Gap:** 90% of alumni respondents identified **Data Analysis** and **Adaptability** as the most critical missing skills in the curriculum.
+* **Demand:** 84.2% of students requested more robust internship and co-op programs.
 
 ## 🚀 Recommendations
-[cite_start]Based on the analysis, our team proposed[cite: 695, 696]:
+Based on the analysis, our team proposed:
 1.  **Mentorship Program:** Connecting current students with alumni to bridge the "industry awareness" gap.
 2.  **Technical Upskilling:** Integrating more hands-on tools into the curriculum to meet employer demand.
 3.  **Partnerships:** Expanding industry ties to increase co-op seat availability.
