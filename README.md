@@ -4,9 +4,6 @@
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-**Goal:** Identify barriers to employment for Business Analysis students and propose curriculum improvements.
-**Role:** Assistant Team Lead, Lead Analyst
-**Deliverable:** [📄 View Final Presentation PDF](./Career_Analysis_of_Business_Analyst_Students.pdf)
 
 **Goal:** Identify barriers to employment for Business Analysis students and propose curriculum improvements.
 **Roles:** Assistant Team Lead, Lead Analyst/ Researcher
